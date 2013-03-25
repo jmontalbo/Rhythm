@@ -1,0 +1,191 @@
+TRhythmTest
+v7
+r3
+t385882995.372205
+cCheck dependencies
+cProcessInfoPlistFile /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/Info.plist RhythmTest-Info.plist
+cCompileXIB /Users/Joe/dev/RhythmTest/MainWindow.xib
+cCompileXIB /Users/Joe/dev/RhythmTest/RhythmTestViewController.xib
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/Joe/dev/RhythmTest/Classes/RhythmTestAppDelegate.h
+c00000000514FD0D400000000000001F4
+t1364185300
+s500
+i<UIKit/UIKit.h>
+
+N/Users/Joe/dev/RhythmTest/Classes/RhythmTestAppDelegate.m
+c00000000514FD0D40000000000000ABC
+t1364185300
+s2748
+i"RhythmTestAppDelegate.h"
+i"RhythmTestViewController.h"
+
+N/Users/Joe/dev/RhythmTest/Classes/RhythmTestViewController.h
+c00000000514FD0D400000000000000FA
+t1364185300
+s250
+i<UIKit/UIKit.h>
+
+N/Users/Joe/dev/RhythmTest/Classes/RhythmTestViewController.m
+c00000000514FD0D400000000000005D0
+t1364185300
+s1488
+i"RhythmTestViewController.h"
+
+N/Users/Joe/dev/RhythmTest/MainWindow.xib
+c00000000514FD0D40000000000004E4D
+t1364185300
+s20045
+
+N/Users/Joe/dev/RhythmTest/RhythmTestViewController.xib
+c00000000514FD0D40000000000001A51
+t1364185300
+s6737
+
+N/Users/Joe/dev/RhythmTest/RhythmTest_Prefix.pch
+c00000000514FD0D400000000000000BD
+t1364185300
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app.dSYM
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/Info.plist
+t1364185645
+s603
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/MainWindow.nib
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/PkgInfo
+t1364185645
+s8
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/RhythmTest
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/RhythmTestViewController.nib
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/RhythmTest.LinkFileList
+c00000000514FD22D000000000000017E
+t1364185645
+s382
+
+N/Users/Joe/dev/RhythmTest/build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/RhythmTestAppDelegate.o
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/RhythmTestViewController.o
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Joe/dev/RhythmTest/main.m
+c00000000514FD0D4000000000000016F
+t1364185300
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/ds/nwhttd5x1_18r9vf84kcgndc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RhythmTest_Prefix-gomuwphwrtdutvbvqdhytltcdtzw/RhythmTest_Prefix.pch.gch
+t2
+s0
+
+NRhythmTest-Info.plist
+c00000000514FD0D4000000000000038D
+t1364185300
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies385878445#385878445#0(0"0(0#1#0"17203316480#0"0#
+
+CCompileC build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/RhythmTestAppDelegate.o /Users/Joe/dev/RhythmTest/Classes/RhythmTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/RhythmTestViewController.o /Users/Joe/dev/RhythmTest/Classes/RhythmTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RhythmTest.build/Debug-iphonesimulator/RhythmTest.build/Objects-normal/i386/main.o /Users/Joe/dev/RhythmTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/Joe/dev/RhythmTest/MainWindow.xib
+s385878445.209599
+e385882995.270898
+r0
+xCompileXIB
+x/Users/Joe/dev/RhythmTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib385878445#385882995#0(0"0(0#0#40"/Users/Joe/dev/RhythmTest/MainWindow.xib4317974528#534"    cd /Users/Joe/dev/RhythmTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/MainWindow.nib /Users/Joe/dev/RhythmTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk2#
+
+CCompileXIB /Users/Joe/dev/RhythmTest/RhythmTestViewController.xib
+s385878445.212423
+e385882995.372161
+r0
+xCompileXIB
+x/Users/Joe/dev/RhythmTest/RhythmTestViewController.xib
+lSLF07#2@39"CompileXIB RhythmTestViewController.xib385878445#385882995#0(0"0(0#0#54"/Users/Joe/dev/RhythmTest/RhythmTestViewController.xib4317974528#562"    cd /Users/Joe/dev/RhythmTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/RhythmTestViewController.nib /Users/Joe/dev/RhythmTest/RhythmTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk2#
+
+CGenerateDSYMFile /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app.dSYM /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/RhythmTest
+r0
+
+CLd /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/RhythmTest normal i386
+r0
+
+CProcessInfoPlistFile /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/Info.plist RhythmTest-Info.plist
+s385878445.177507
+e385878445.209437
+r1
+xProcessInfoPlistFile
+x/Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/Info.plist
+xRhythmTest-Info.plist
+lSLF07#2@29"Process RhythmTest-Info.plist385878445#385878445#0(0"0(0#0#47"/Users/Joe/dev/RhythmTest/RhythmTest-Info.plist17203541248#449"    cd /Users/Joe/dev/RhythmTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RhythmTest-Info.plist -genpkginfo /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app/Info.plist0#
+
+CProcessPCH /var/folders/ds/nwhttd5x1_18r9vf84kcgndc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RhythmTest_Prefix-gomuwphwrtdutvbvqdhytltcdtzw/RhythmTest_Prefix.pch.gch RhythmTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Joe/dev/RhythmTest/build/Debug-iphonesimulator/RhythmTest.app
+r0
+
